@@ -25,19 +25,29 @@ Project Structure:
 3. Several other supporting files are used as well such as patients, doctors, admins.
 
 Running procedure:
+
 1.Clone following github repository:
+
 https://github.com/MuhammadSaad777/Hospital-Management-System
+
 2. Open project in VisualStudio2026
+  
 3. Compile project and run it
+
 
 Outcomes:
 1.Simple management system helping understand 
 
   a.OOP Concepts
+  
   b.PF Concepts
+  
   c.File Handling Concepts
+  
   d.GUI understanding
+  
   e.Project designing and structure
+  
 
 
 
