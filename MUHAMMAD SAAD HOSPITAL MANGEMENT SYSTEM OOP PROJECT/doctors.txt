@@ -1,0 +1,4 @@
+1,Dr. Sara Khan,Cardiology,03111234567,doc123,1500.00
+2,Dr. Usman Ali,Neurology,03211234567,doc456,2000.00
+3,Dr. Qureshi,Kidney,03217654321,doc789,1200.00
+4,kinza,respiratory,03001111111,doc246,100.00
