@@ -28,7 +28,7 @@ Running procedure:
 
 1.Clone following github repository:
 
-https://github.com/MuhammadSaad777/Hospital-Management-System
+https://github.com/MuhammadSaad777/HOSPITAL-MANGEMENT-SYSTEM
 
 2. Open project in VisualStudio2026
   
